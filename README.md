@@ -4,8 +4,9 @@ a simple game works in the browser.</br> It consist's of two characters. The use
 </br>
 
 https://azizck.github.io/catchtheFly/
-<p style="color:red"> 
- Langauges used: 
+
+ <sub><sup>
+ Languages used: 
  HTML, CSS, JAVASCRIPT
 <p>
-
+</sup></sub>
